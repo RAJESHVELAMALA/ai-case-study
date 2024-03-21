@@ -17,7 +17,6 @@ The company operates as a robo-advisor, that uses algorithms and technology to p
 4. Low Fees
 5. Financial Planning Tools
 
-
 ----------
 
 <span style="color:blue">Overall, Betterment aims to democratize access to sophisticated investment strategies and financial advice, making it easier for individuals to build wealth and achieve their financial goals.</span>
@@ -129,7 +128,7 @@ Here are some of the key technologies that Betterment employs and how they are i
 
 ----------
 
- <img src="CICD.jpeg" alt="drawing" style="width:200px;height:100px"/> <img src="AIML.jpeg" alt="drawing" style="width:200px;height:100px"/><img src="RPA.png" alt="drawing" style="width:200px;height:100px"/><img src="cloud.webp" alt="drawing" style="width:200px;height:100px"/>
+ <img src="img/CICD.jpeg" alt="drawing" style="width:200px;height:100px"/> <img src="img/AIML.jpeg" alt="drawing" style="width:200px;height:100px"/><img src="img/RPA.png" alt="drawing" style="width:200px;height:100px"/><img src="img/cloud.webp" alt="drawing" style="width:200px;height:100px"/>
 
 ----------
 
@@ -184,7 +183,7 @@ Betterment faces competition from various companies operating in the financial t
 - Wealthsimple
 
 ----------
-<img src="wealthfront.jpeg" alt="drawing" style="width:100px;height:100px"/><img src="vanguard.jpeg" alt="drawing" style="width:100px;height:100px"/><img src="shwab.png" alt="drawing" style="width:100px;height:100px"/><img src="SOFI.png" alt="drawing" style="width:100px;height:100px"/><img src="TD.png" alt="drawing" style="width:100px;height:100px"/><img src="Acorns.jpeg" alt="drawing" style="width:100px;height:100px"/><img src="wealthsimple.png" alt="drawing" style="width:100px;height:100px"/>
+<img src="img/wealthfront.jpeg" alt="drawing" style="width:100px;height:100px"/><img src="img/vanguard.jpeg" alt="drawing" style="width:100px;height:100px"/><img src="img/shwab.png" alt="drawing" style="width:100px;height:100px"/><img src="img/SOFI.png" alt="drawing" style="width:100px;height:100px"/><img src="img/TD.png" alt="drawing" style="width:100px;height:100px"/><img src="img/Acorns.jpeg" alt="drawing" style="width:100px;height:100px"/><img src="img/wealthsimple.png" alt="drawing" style="width:100px;height:100px"/>
 
 ----------
 
