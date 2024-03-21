@@ -184,13 +184,7 @@ Betterment faces competition from various companies operating in the financial t
 - Wealthsimple
 
 ----------
-<img src="wealthfront.jpeg" alt="drawing" style="width:100px;height:100px"/>
-<img src="vanguard.jpeg" alt="drawing" style="width:100px;height:100px"/>
-<img src="shwab.png" alt="drawing" style="width:100px;height:100px"/>
-<img src="SOFI.png" alt="drawing" style="width:100px;height:100px"/>
-<img src="TD.png" alt="drawing" style="width:100px;height:100px"/>
-<img src="Acorns.jpeg" alt="drawing" style="width:100px;height:100px"/>
-<img src="wealthsimple.png" alt="drawing" style="width:100px;height:100px"/>
+<img src="wealthfront.jpeg" alt="drawing" style="width:100px;height:100px"/><img src="vanguard.jpeg" alt="drawing" style="width:100px;height:100px"/><img src="shwab.png" alt="drawing" style="width:100px;height:100px"/><img src="SOFI.png" alt="drawing" style="width:100px;height:100px"/><img src="TD.png" alt="drawing" style="width:100px;height:100px"/><img src="Acorns.jpeg" alt="drawing" style="width:100px;height:100px"/><img src="wealthsimple.png" alt="drawing" style="width:100px;height:100px"/>
 
 ----------
 
