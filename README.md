@@ -3,7 +3,7 @@
 
 ## Overview and Origin
 
-![alt](betterment_new_logomark-color.png.webp)
+![alt](img/betterment_new_logomark-color.png.webp)
 
 ### <span style="color:blue">Betterment is a financial technology company that offers automated investment and financial planning services. Founded in 2008 by Jon Stein and Eli Broverman, Betterment aims to make investing and managing finances more accessible, transparent, and cost-effective for individuals.</span>
 
