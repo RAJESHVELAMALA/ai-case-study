@@ -5,7 +5,7 @@
 
 ![alt](betterment_new_logomark-color.png.webp)
 
-### Betterment is a financial technology company that offers automated investment and financial planning services. Founded in 2008 by Jon Stein and Eli Broverman, Betterment aims to make investing and managing finances more accessible, transparent, and cost-effective for individuals.
+### <span style="color:blue">Betterment is a financial technology company that offers automated investment and financial planning services. Founded in 2008 by Jon Stein and Eli Broverman, Betterment aims to make investing and managing finances more accessible, transparent, and cost-effective for individuals.</span>
 
 The company operates as a robo-advisor, that uses algorithms and technology to provide personalized investment advice and manage clients' portfolios automatically. Betterment offers a range of investment options, including individual and joint taxable accounts, IRAs (Traditional, Roth, and SEP), trust accounts, and retirement accounts.
 
@@ -20,7 +20,7 @@ The company operates as a robo-advisor, that uses algorithms and technology to p
 
 ----------
 
-Overall, Betterment aims to democratize access to sophisticated investment strategies and financial advice, making it easier for individuals to build wealth and achieve their financial goals.
+<span style="color:blue">Overall, Betterment aims to democratize access to sophisticated investment strategies and financial advice, making it easier for individuals to build wealth and achieve their financial goals.</span>
 
 ----------
 
@@ -65,7 +65,7 @@ Subsequent Rounds and Growth: Since its Series D round, Betterment has continued
 
 ----------
 
-Overall, Betterment aimed to empower individuals to take control of their financial futures, eliminate barriers to investing, and provide a user-friendly platform that makes investing simple, transparent, and cost-effective.
+<span style="color:blue">Overall, Betterment aimed to empower individuals to take control of their financial futures, eliminate barriers to investing, and provide a user-friendly platform that makes investing simple, transparent, and cost-effective.</span>
 
 ----------
 
